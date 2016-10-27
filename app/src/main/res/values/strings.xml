@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UTS Prak.Mobpro</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="pesan">pesan</string>
+    <string name="simpan">simpan</string>
+    <string name="add_favr">Pesanan ditambahkan</string>
+    <string name="remove_favr">Pesanan dibatalkan</string>
+    <string name="no_favorites_items">Tidak ada item yang dipilih</string>
+    <string name="no_favorites_msg">Silahkan tekan dan tahan pesanan yang akan dipilih</string>
+    <string name="hapus">hapus</string>
+    <string name="pemesanan">Pemesanan</string>
+    <string name="listbarang">Daftar Makanan</string>
+    <string name="history">History</string>
+</resources>
